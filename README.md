@@ -4,7 +4,7 @@
 <div align=left>
 
 - I'm currently transitioning from mechanical engineering to full-stack web development.
-- I'm currently learning Typescript, OOP,  Node.js, React and Python and R.
+- I'm currently learning Typescript, OOP,  Java, Node.js, React and data science.
 - When I'm not coding, i'm learning about economics, astronomy, 3D modeling and music production.
 ### Where to find me:
 
